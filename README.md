@@ -1,6 +1,6 @@
-# BSides Augusta CTF 2023
+<h1 align="center"> <img align="center" src="assets/BSidesAugustaLogo.png" width="100"> BSides Augusta CTF 2023 </h1>
 
-🏆 Third Place Winner 
+<h3 align="center">🏆 Third Place Winner </h3>
 
 Writeups of the BSides Augusta CTF in partnership with HackTheBox (HTB) that took place October 7th, 2023 at the [BSides Augusta 10th Annual Conference](https://bsidesaugusta.org/).
 
