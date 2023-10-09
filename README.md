@@ -1,4 +1,4 @@
-<h1 align="center"> <img align="center" src="assets/BSidesAugustaLogo.png" width="100"> BSides Augusta CTF 2023 </h1>
+<h1 align="center"> <img align="center" src="assets/BSidesAugusta.png" width="100"> BSides Augusta CTF 2023 </h1>
 
 <h3 align="center">🏆 Third Place Winner </h3>
 
