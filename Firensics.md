@@ -7,9 +7,9 @@
 
 ### Required Files (Places is a zip bc compression 👍)
 
-[formhistory.sqlite](https://prod-files-secure.s3.us-west-2.amazonaws.com/f4c74cae-e956-4d85-b7e7-836e2e353ae6/185ee2e3-b838-49b5-aac0-193f1b792d11/formhistory.sqlite)
+[formhistory.sqlite](/assets/formhistory.sqlite)
 
-[places.zip](https://prod-files-secure.s3.us-west-2.amazonaws.com/f4c74cae-e956-4d85-b7e7-836e2e353ae6/dc0a4b64-123c-4f28-ac00-d2dd98a5c6c4/places.zip)
+[places.zip](/assets/places.zip)
 
 ### My Thought Process (Very flawed)
 
