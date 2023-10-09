@@ -5,11 +5,11 @@
    there are a lot of files.
 ```
 
-### Required Files (Places is a zip bc compression 👍)
+### Required Files 
 
 [formhistory.sqlite](/assets/formhistory.sqlite)
 
-[places.zip](/assets/places.zip)
+[places.sqlite](/assets/places.sqlite)
 
 ### My Thought Process (Very flawed)
 
